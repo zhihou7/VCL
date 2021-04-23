@@ -184,7 +184,7 @@ We also illustrates these in the code in detail. If finetuning our model, we can
 Zero-shot result
 
 
-|Model|Full|Rare|Non-Rare|
+|Model|Unseen|Seen|Full|
 |:-|:-:|:-:|:-:|
 |Shen et al.[1] | 5.62 | - | 6.26 |
 |Bansal et al.[2]|10.93|12.60|12.2|
